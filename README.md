@@ -10,7 +10,7 @@
 
 ## Summary
 
-Software Developer with over 3 years of experience in both front-end and back-end development. Skilled in C#, ASP.NET Core Web API, WPF, and SQL-based databases. Proven ability to build robust, reliable, and scalable software applications, including web, desktop, and mobile solutions. Passionate about API development, system architecture, and automation. Looking to contribute to innovative software teams and create impactful applications.
+Software Developer with over 3 years of experience in both front-end and back-end development. Skilled in C#, ASP.NET Core Web API, WPF, and SQL-based databases. Proven ability to build **cloud-native**, **event-driven**, and **API-led** applications that are robust, scalable, and production-ready. Passionate about **DevOps practices**, **CI/CD pipelines**, and automation. Adept at system architecture and performance tuning. Looking to contribute to innovative global software teams delivering high-impact digital products.
 
 ---
 
@@ -18,40 +18,43 @@ Software Developer with over 3 years of experience in both front-end and back-en
 
 ### Mubasher (Switch) — Software Developer  
 **Baghdad, Iraq** | *Current*  
-- Build robust, reliable, and scalable applications.  
-- Develop APIs, Windows Services, desktop and mobile apps.  
-- Use C#, ASP.NET Core Web API, WPF, Postgres, and SQL Server.  
-- Design and implement backend architectures and automation services.  
-- Deploy and maintain solutions on remote servers.
+- Built **cloud-native**, **scalable**, and **API-led** applications.
+- Developed REST APIs, Windows Services, and mobile apps using ASP.NET Core Web API and WPF.
+- Designed and implemented the backend for distributed systems using microservices patterns.
+- Built automation scripts and **CI/CD pipelines** to streamline deployments to remote servers.
+- Utilized **monitoring and tracing** tools to track application health and performance.
+- Ensured high availability and fault-tolerance in backend systems through decoupled service architecture.
 
 ### Nas Iraq Holding — Back-end Developer  
 **Baghdad, Iraq** | *Apr 2024 – Dec 2024*  
-- Built scalable and secure back-end systems.  
-- Developed APIs with ASP.NET Core and managed deployments via IIS.  
-- Designed backend systems and performed debugging and maintenance.
+- Built **event-driven** services and APIs using ASP.NET Core.
+- Designed backend components for internal ERP systems and integrated external services.
+- Developed scalable components with **microservices architecture** principles.
+- Implemented automated deployment via **CI/CD pipelines** and managed staging/production parity.
 
 ### Ta3leem — Front-end Developer  
 **Baghdad, Iraq** | *Jan 2023 – Dec 2023*  
-- Developed and maintained client-side applications.  
-- Used HTML, CSS, JavaScript, and React.js.  
-- Led UI design for the content digitization project.
+- Developed responsive UIs using React.js, JavaScript, HTML, and CSS.
+- Integrated front-end with **API-led backends** and built reusable components.
+- Participated in Agile sprints, contributing to full-stack development in a collaborative environment.
 
 ### Gold Star Lights — IT Technician & System Administrator  
 **Baghdad, Iraq** | *Nov 2022 – Jun 2023*  
-- Managed ERP systems and provided help desk support.  
-- Maintained systems deployed for the Public Pension Authority.  
-- Delivered internal IT solutions and systems maintenance.
+- Managed and deployed ERP systems with a focus on uptime and security.
+- Provided IT support and system upgrades, working with Windows and Linux servers.
+- Developed internal tools for monitoring infrastructure and automating repetitive tasks.
 
 ### Al-Hadi Software Solutions — Web/Desktop Developer  
 **Baghdad, Iraq** | *Jan 2022 – Nov 2022*  
-- Developed and maintained Blazor and MVC applications.  
-- Delivered IT solutions for multiple clients.  
-- Designed and deployed mini software tools.
+- Maintained and improved applications built with Blazor and ASP.NET MVC.
+- Designed lightweight apps for small businesses, including data synchronization and reporting tools.
+- Contributed to legacy system modernization using **DevOps best practices**.
 
 ### IoT Maker — Web Developer Intern  
 **Baghdad, Iraq** | *Mar 2021 – Aug 2021*  
-- Worked on IoT Kids Platform backend using ASP.NET Core.  
-- Contributed to backend design and applied continuous improvements.
+- Worked on IoT Kids Platform backend using ASP.NET Core.
+- Built modular APIs and participated in code reviews focused on maintainability and performance.
+- Documented system behavior and optimized for **scalability and monitoring**.
 
 ---
 
@@ -71,7 +74,7 @@ University of Technology, Baghdad
 - Software Design: Code and Design Smells  
 - Programming Foundations: Databases  
 - Software Architecture: Domain-Driven Design  
-- Design Patterns – Creational
+- Design Patterns – Creational  
 
 ---
 
@@ -81,7 +84,10 @@ University of Technology, Baghdad
 C#, ASP.NET Core, JavaScript, HTML/CSS, SQL, Postgres, SQL Server, WPF, Blazor
 
 **Frameworks & Tools**  
-ASP.NET Core Web API, React.js, MVC Architecture, IIS, Git
+ASP.NET Core Web API, React.js, MVC, Docker, Git, IIS, GitHub Actions, Jenkins
 
-**Concepts**  
-Backend Development, API Design, Frontend Development, Windows Services, System Architecture, Content Digitization, Automation
+**Concepts & Practices**  
+Cloud-Native Development, API-Led Architecture, Microservices Architecture, Event-Driven Systems, CI/CD Pipelines, DevOps Practices, Distributed Tracing & Monitoring, Clean Architecture, Domain-Driven Design
+
+---
+

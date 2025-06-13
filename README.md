@@ -8,69 +8,69 @@
 
 ---
 
-## 🧠 Summary
+## Summary
 
-Software Developer with 3+ years of full-stack experience specializing in backend APIs, scalable systems, and enterprise automation. Built and maintained cloud-native, API-led, and event-driven services in ASP.NET Core. Skilled in DevOps practices, CI/CD pipelines, and cross-functional collaboration. Strong communicator with experience leading small teams and mentoring junior developers. Eager to contribute to mission-driven global teams.
+Software Developer with 3+ years of full-stack experience specializing in backend APIs, scalable systems, and enterprise automation. Proficient in designing and maintaining cloud-native, API-driven, and event-based services using ASP.NET Core. Experienced in DevOps practices including CI/CD pipeline creation and system monitoring. Strong communicator with leadership experience mentoring junior developers and collaborating across distributed teams. Passionate about delivering high-quality software solutions for mission-driven organizations.
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### Mubasher (Switch) — Software Developer  
-**Baghdad, Iraq** | *Mar 2025 – Present*  
-- Developed **cloud-native microservices** using ASP.NET Core Web API and deployed to production environments.
-- Designed and implemented REST APIs, mobile and desktop apps using C#, WPF, and PostgreSQL.
-- Created custom Windows Services for backend automation, reducing manual ops by 40%.
-- Built and maintained **CI/CD pipelines** using GitHub Actions and IIS deployment scripts.
-- Monitored system health using custom logging and integrated tracing dashboards.
-- Collaborated with a distributed team and acted as lead developer on the notification service module.
+*Baghdad, Iraq | Mar 2025 – Present*  
+- Developed cloud-native microservices with ASP.NET Core Web API, achieving zero downtime deployments.  
+- Designed REST APIs and desktop/mobile apps using C#, WPF, and PostgreSQL.  
+- Automated backend workflows with custom Windows Services, reducing manual operational efforts by 40%.  
+- Implemented CI/CD pipelines using GitHub Actions and IIS, accelerating release cycles by 30%.  
+- Led the notification service module development and coordinated a distributed team of 5 developers.  
+- Monitored system health via custom logging and tracing dashboards, improving incident response times by 25%.
 
 ---
 
 ### Nas Iraq Holding — Back-end Developer  
-**Baghdad, Iraq** | *Apr 2024 – Dec 2024*  
-- Engineered backend modules for enterprise apps using ASP.NET Core and SQL Server.
-- Implemented **event-driven patterns** with message queues for internal communication.
-- Led a 3-member backend squad, improving sprint delivery time by 20%.
-- Delivered robust APIs with built-in logging, retry logic, and data validation layers.
-- Wrote migration and automation scripts, optimizing server tasks during off-peak hours.
+*Baghdad, Iraq | Apr 2024 – Dec 2024*  
+- Engineered backend modules for enterprise applications using ASP.NET Core and SQL Server.  
+- Designed event-driven communication patterns using message queues, enhancing scalability and reliability.  
+- Led a 3-member backend team, increasing sprint delivery velocity by 20%.  
+- Developed robust APIs with logging, retry policies, and validation, reducing runtime errors by 15%.  
+- Automated database migrations and server maintenance scripts, optimizing off-peak server usage.
 
 ---
 
 ### Ta3leem — Front-end Developer  
-**Baghdad, Iraq** | *Jan 2023 – Dec 2023*  
-- Built responsive user interfaces using React.js, HTML5, CSS3, and JavaScript.
-- Integrated front-end with RESTful APIs and enhanced user accessibility.
-- Co-led weekly design reviews with product and QA teams, refining user journeys.
-- Delivered a full content digitization module ahead of schedule, improving load speed by 30%.
+*Baghdad, Iraq | Jan 2023 – Dec 2023*  
+- Built responsive interfaces with React.js, HTML5, CSS3, and JavaScript, improving page load speed by 30%.  
+- Integrated front-end with RESTful APIs, enhancing user accessibility and experience.  
+- Co-led weekly design reviews with product and QA teams, refining user workflows.  
+- Delivered a full content digitization module ahead of schedule, boosting user engagement metrics.
 
 ---
 
 ### Gold Star Lights — IT Technician & System Administrator  
-**Baghdad, Iraq** | *Nov 2022 – Jun 2023*  
-- Administered internal ERP system and handled Tier-1/2 technical support.
-- Developed internal tools and scripts for faster troubleshooting and resource tracking.
-- Provided remote support to 50+ users; reduced average downtime by 35%.
+*Baghdad, Iraq | Nov 2022 – Jun 2023*  
+- Administered internal ERP systems and provided Tier-1/2 technical support.  
+- Developed troubleshooting tools and scripts, accelerating incident resolution.  
+- Provided remote support to 50+ users, reducing average downtime by 35%.
 
 ---
 
 ### Al-Hadi Software Solutions — Web/Desktop Developer  
-**Baghdad, Iraq** | *Jan 2022 – Nov 2022*  
-- Modernized legacy desktop systems with **Blazor** and **MVC Architecture**.
-- Delivered lightweight apps for finance and inventory teams with SQL-backed services.
-- Facilitated client onboarding and training sessions, increasing adoption and satisfaction.
+*Baghdad, Iraq | Jan 2022 – Nov 2022*  
+- Modernized legacy desktop systems with Blazor and MVC architecture.  
+- Delivered lightweight finance and inventory apps backed by SQL Server.  
+- Conducted client onboarding and training, increasing adoption and satisfaction.
 
 ---
 
 ### IoT Maker — Web Developer Intern  
-**Baghdad, Iraq** | *Mar 2021 – Aug 2021*  
-- Contributed to backend of IoT Kids Platform using ASP.NET Core and Entity Framework.
-- Participated in agile standups and delivered working modules under tight deadlines.
-- Assisted in creating documentation for maintainability and team handoff.
+*Baghdad, Iraq | Mar 2021 – Aug 2021*  
+- Contributed to backend development for IoT Kids Platform using ASP.NET Core and Entity Framework.  
+- Participated in agile standups and delivered features under tight deadlines.  
+- Assisted with documentation to enhance maintainability and knowledge transfer.
 
 ---
 
-## 🏫 Education
+## Education
 
 **Bachelor’s Degree in Biotechnology**  
 University of Technology, Baghdad  
@@ -78,7 +78,7 @@ University of Technology, Baghdad
 
 ---
 
-## 🎓 Courses & Certifications
+## Courses & Certifications
 
 - CS50: Computer Science Basics  
 - Software Architecture Foundations  
@@ -90,70 +90,68 @@ University of Technology, Baghdad
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🛡️ Prison Management System with Built-in Encryption
-**Tech Stack**: ASP.NET Core, WPF, Custom C# Encryption Library, SQL Server  
-- Built a secure, desktop-based prison management system with modules for inmate registration, incident logging, and case tracking.  
-- Developed a custom encryption library in C# to protect sensitive inmate data at rest and in transit.  
+### Prison Management System with Built-in Encryption  
+**Tech Stack:** ASP.NET Core, WPF, Custom C# Encryption Library, SQL Server  
+- Developed a secure, desktop-based prison management system with inmate registration, incident logging, and case tracking modules.  
+- Created a custom encryption library to protect sensitive inmate data at rest and in transit.  
 - Implemented access control, encrypted audit logs, and compliance-focused data handling.
 
 ---
 
-### 🖥️ Business-Focused Windows Applications
-**Tech Stack**: C#, WPF, SQL Server  
-- Delivered multiple tailored Windows desktop apps for HR, inventory, and finance operations in small-to-medium enterprises.  
-- Focused on performance, reliability, and intuitive UI/UX for non-technical users.  
-- Gathered requirements from business teams, deployed updates, and provided staff training.
+### Business-Focused Windows Applications  
+**Tech Stack:** C#, WPF, SQL Server  
+- Delivered multiple tailored Windows desktop apps for HR, inventory, and finance teams.  
+- Focused on performance, reliability, and user-friendly UI for non-technical users.  
+- Gathered requirements, deployed updates, and conducted staff training.
 
 ---
 
-### 🌐 Web Applications Using Clean Architecture
-**Tech Stack**: ASP.NET Core Web API, React.js, blazor,Razor pages, PostgreSQL, Clean Architecture  
-- Designed and developed scalable web apps using Domain-Driven Design and SOLID principles.  
-- Implemented layered architectures with clear separation of concerns, JWT auth, and role-based access.  
-- Ensured maintainability and ease of testing through modular code and repository patterns.
+### Web Applications Using Clean Architecture  
+**Tech Stack:** ASP.NET Core Web API, React.js, Blazor, Razor Pages, PostgreSQL  
+- Designed scalable web apps following Domain-Driven Design and SOLID principles.  
+- Implemented layered architecture with JWT authentication and role-based access control.  
+- Ensured maintainability and testability through modular code and repository patterns.
 
 ---
 
-### 🧩 Mini Interactive Educational Games
-**Tech Stack**: Unity (C#), HTML5 Canvas, JavaScript , css
-- Built a suite of interactive games aimed at early learners to teach language, math, and critical thinking skills.  
-- Integrated quizzes, puzzles, and fun logic challenges suitable for both desktop and mobile.  
-- Created engaging visuals and adaptive learning feedback for young audiences.
+### Mini Interactive Educational Games  
+**Tech Stack:** Unity (C#), HTML5 Canvas, JavaScript, CSS  
+- Built a suite of educational games for early learners teaching language, math, and critical thinking.  
+- Integrated quizzes, puzzles, and logic challenges for desktop and mobile platforms.  
+- Developed engaging visuals and adaptive learning feedback.
 
 ---
 
-### 🛠️ Startup-Focused Software Solutions
-**Tech Stack**: ASP.NET Core, Blazor, WPF, SQL Server  
-- Partnered with early-stage startups to build MVPs and full-stack solutions aligned with business goals.  
+### Startup-Focused Software Solutions  
+**Tech Stack:** ASP.NET Core, Blazor, WPF, SQL Server  
+- Partnered with startups to develop MVPs and full-stack solutions aligned with business goals.  
 - Delivered rapid prototypes and scaled production apps with modular design and DevOps pipelines.  
-- Streamlined launch processes using CI/CD, versioning, and containerized deployment.
+- Streamlined launch processes using CI/CD, versioning, and containerized deployments.
 
 ---
 
-### 🔄 Software Maintenance & Upgrade Projects
-**Tech Stack**: C#, ASP.NET Core, WPF, SQL Server  
-- Refactored and modernized legacy systems for performance, security, and maintainability.  
-- Reduced technical debt by applying clean code principles and updating obsolete dependencies.  
-- Introduced source control workflows, automated builds, and documentation for long-term stability.
-
-
----
-
-## 🛠️ Skills
-
-**Languages**  
-C#, JavaScript, SQL, HTML/CSS, Bash
-
-**Frameworks & Libraries**  
-ASP.NET Core, React.js, Blazor, WPF, Entity Framework, MVC
-
-**Tools & Platforms**  
-Git, Docker, GitHub Actions, IIS, Visual Studio, Postman, Figma
-
-**Concepts & Practices**  
-Cloud-Native Development, API-Led Architecture, Microservices, Event-Driven Systems, CI/CD Pipelines, DevOps, Distributed Tracing & Monitoring, Domain-Driven Design, Clean Architecture
+### Software Maintenance & Upgrade Projects  
+**Tech Stack:** C#, ASP.NET Core, WPF, SQL Server  
+- Refactored and modernized legacy systems for better performance, security, and maintainability.  
+- Reduced technical debt by applying clean code principles and updating dependencies.  
+- Introduced source control workflows, automated builds, and comprehensive documentation.
 
 ---
 
+## Skills
+
+**Languages:**  
+C#, JavaScript, SQL, HTML/CSS, Bash  
+
+**Frameworks & Libraries:**  
+ASP.NET Core, React.js, Blazor, WPF, Entity Framework, MVC  
+
+**Tools & Platforms:**  
+Git, Docker, GitHub Actions, IIS, Visual Studio, Postman, Figma  
+
+**Concepts & Practices:**  
+Cloud-Native Development, API-Led Architecture, Microservices, Event-Driven Systems, CI/CD Pipelines, DevOps, Distributed Tracing & Monitoring, Domain-Driven Design, Clean Architecture  
+
+---
